@@ -12,7 +12,7 @@ ALL_FILES = cv.pdf pubs.pdf cv_pubs.pdf biosketch.pdf
 
 all: ${ALL_FILES}
 
-%.pdf: %.tex cvstyle.tex pubs_ref.tex pubs_unref.tex ../data/pubs.json ../data/other_pubs.json
+%.pdf: %.tex cvstyle.tex pubs_ref.tex ../data/pubs.json ../data/other_pubs.json
 	${LATEX} $<
 	${LATEX} $<
 
