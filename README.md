@@ -16,7 +16,7 @@ Chief Technology Officer & co-founder, Dynomics Inc.
 
 PhD 2012,  Department of Physics, University of Queensland.
 
-BSc (Hons) 2007, Department of Physics, University of Queensland, Australia.
+Hons 2007, Department of Physics, University of Queensland, Australia.
 
 BSc 2006, Department of Physics, University of Queensland, Australia.
 
