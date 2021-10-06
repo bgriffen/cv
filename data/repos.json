@@ -2,23 +2,8 @@
   "data": {
     "user": {
       "pinnedItems": {
-        "totalCount": 5,
+        "totalCount": 4,
         "edges": [
-          {
-            "node": {
-              "name": "bfg",
-              "description": "Pinned README",
-              "url": "https://github.com/bgriffen/bfg",
-              "homepageUrl": null,
-              "forkCount": 0,
-              "stargazers": {
-                "totalCount": 0
-              },
-              "watchers": {
-                "totalCount": 1
-              }
-            }
-          },
           {
             "node": {
               "name": "cme",
@@ -51,10 +36,10 @@
           },
           {
             "node": {
-              "name": "betterdoublej",
-              "description": "Stream Double J but switch to Triple J on newshour.",
-              "url": "https://github.com/bgriffen/betterdoublej",
-              "homepageUrl": null,
+              "name": "ezpubmed",
+              "description": "A simple python framework for storing a pandas-friendly, up to date store of PubMed.",
+              "url": "https://github.com/bgriffen/ezpubmed",
+              "homepageUrl": "",
               "forkCount": 0,
               "stargazers": {
                 "totalCount": 0
@@ -66,13 +51,13 @@
           },
           {
             "node": {
-              "name": "ezpubmed",
-              "description": "A simple python framework for storing a pandas-friendly, up to date store of PubMed.",
-              "url": "https://github.com/bgriffen/ezpubmed",
+              "name": "easyaasjobs",
+              "description": "Scrape the AAS job registry and compile deadlines for jobs of interest.",
+              "url": "https://github.com/bgriffen/easyaasjobs",
               "homepageUrl": "",
-              "forkCount": 0,
+              "forkCount": 2,
               "stargazers": {
-                "totalCount": 0
+                "totalCount": 2
               },
               "watchers": {
                 "totalCount": 1
