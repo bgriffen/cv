@@ -69,38 +69,11 @@ Coming soon.
 
 <div class="list">
 
-
-[**emcee**](https://github.com/dfm/emcee) — 1180 stars / 402 forks  
-The Python ensemble sampling toolkit for affine-invariant MCMC
-[\[docs\]](https://emcee.readthedocs.io)
-
-[**exoplanet**](https://github.com/exoplanet-dev/exoplanet) — 141 stars
-/ 41 forks  
-Fast & scalable MCMC for all your exoplanet needs!
-[\[docs\]](https://docs.exoplanet.codes)
-
-[**corner.py**](https://github.com/dfm/corner.py) — 359 stars / 193
-forks  
-Make some beautiful corner plots
-[\[docs\]](http://corner.readthedocs.io)
-
-[**celerite2**](https://github.com/exoplanet-dev/celerite2) — 36 stars /
-4 forks  
-Fast & scalable Gaussian Processes in one dimension
-[\[docs\]](https://celerite2.readthedocs.io)
-
-[**celerite**](https://github.com/dfm/celerite) — 168 stars / 38 forks  
-Scalable 1D Gaussian Processes in C++, Python, and Julia
-[\[docs\]](http://celerite.rtfd.io)
-
-[**daft**](https://github.com/daft-dev/daft) — 605 stars / 115 forks  
-Render probabilistic graphical models using matplotlib
-[\[docs\]](https://docs.daft-pgm.org)
+Coming soon.
 
 </div>
 
 ## Grants
-
 
 
 <div class="list">
