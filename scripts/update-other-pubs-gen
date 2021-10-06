@@ -1,0 +1,4 @@
+from scholarly import scholarly
+
+# Retrieve the author's data, fill-in, and print
+author = scholarly.search_author_id('Smr99uEAAAAJ')
