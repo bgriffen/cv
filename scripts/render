@@ -38,7 +38,7 @@ def format_pub(args):
         fmt += "; ".join(pub["authors"][:4])
         fmt += "; \\etal"
         if n >= 4:
-            fmt += "\\ (incl.\\ \\textbf{DFM})"
+            fmt += "\\ (incl.\\ \\textbf{BFG})"
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])
         fmt += "; \\& " + pub["authors"][-1]
