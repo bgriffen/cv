@@ -59,5 +59,31 @@
     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0092867421003548",
     "volume": "184",
     "year": "2021"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+        "McNamara, James W",
+        "Keen, Ellen B",
+        "Sutton, Rebecca",
+        "She, Yinghan",
+        "Mehdiabadi, Neda R",
+        "Griffen, Brendan",
+        "Mills, Richard M",
+        "Hudson, James E",
+        "Titmarsh, Drew M",
+        "Porrello, Enzo R",
+        "Elliott, David A"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1101/2025.07.31.667858",
+    "page": null,
+    "pub": "bioRxiv",
+    "pubdate": "2025-07-31",
+    "title": "Alpha Protein Kinase 3 Gene Therapy Restores Heart Function in Mouse and Human Models of Cardiomyopathy",
+    "url": "https://www.biorxiv.org/content/10.1101/2025.07.31.667858v1",
+    "volume": null,
+    "year": "2025"
   }
 ]
